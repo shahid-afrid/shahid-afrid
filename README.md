@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/shaikshahidafrid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:shaikmahammadshahidafrid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 <a href="https://www.instagram.com/shahid__afrid?igsh=enV4dnVicjdmeGZl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
-<sub><strong><code>&nbsp;PORTFOLIO&nbsp;</code></strong></sub><br>
+<strong><code>&nbsp;PORTFOLIO&nbsp;</code></strong><br>
 <img src="https://img.shields.io/badge/Open_to-Software_Engineering-22C55E?style=for-the-badge" alt="Open to software engineering opportunities" />
 <img src="https://img.shields.io/badge/Focus-AI_%7C_Automation_%7C_Full_Stack-38BDF8?style=for-the-badge" alt="Focus: AI, Automation and Full Stack" />
 

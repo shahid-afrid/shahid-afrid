@@ -4,7 +4,7 @@
 
 ### AI & Full Stack Developer
 
-### *Building Intelligent Software with AI, Automation & Modern Web Technologies.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+Intelligent+Software+with+AI;AI+%26+Full+Stack+Developer;UiPath+Automation+%7C+Django+%7C+React;Machine+Learning+%7C+LLMs+%7C+Prompt+Engineering;Turning+Ideas+into+Real-World+Products" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/shahid-afrid">

@@ -2,8 +2,6 @@
 
 <img src="./Assets/hero-glass.svg" width="100%" alt="Shaik Mahammad Shahid Afrid - GitHub profile" />
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=UiPath+Student+Developer+Champion+%28SDC%29;Aspiring+Entrepreneur;AI+%26+Full+Stack+Developer;Building+Intelligent+Software+with+AI;Machine+Learning+%7C+LLMs+%7C+Prompt+Engineering;Turning+Ideas+into+Real-World+Products" alt="Animated professional roles and interests" />
 
 <br>
@@ -24,114 +22,100 @@
 
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="48%" valign="middle">
-      <h2>About Me</h2>
-      <p><strong>AI Engineer Intern at Oscowl ai</strong></p>
-      <p><strong>B.Tech CSE (Data Science)</strong><br>RGMCET · CGPA: 8.4</p>
-      <p><strong>UiPath Student Developer Champion (SDC)</strong></p>
-      <p>Former <strong>Google Developer Group on Campus Core Lead</strong></p>
-      <p>I build intelligent, scalable products across <strong>AI, automation and full stack engineering</strong>.</p>
-      <p>As an <strong>aspiring entrepreneur</strong>, I am exploring startup-driven ideas that create measurable real-world impact through technology.</p>
-      <p><strong>Leadership · Public Speaking · Product Thinking</strong></p>
-    </td>
-    <td width="52%" align="center" valign="middle">
-      <img src="./Assets/output.gif" width="390" alt="Animated developer superhero banner" />
-    </td>
-  </tr>
-</table>
+## About Me
 
-<br>
+<img align="right" src="./Assets/output.gif" width="300" alt="Animated developer superhero banner" />
 
-<table width="100%">
-  <tr>
-    <td width="62%" valign="top">
-      <h2>Currently Working On</h2>
-      <p>▹ Building AI-powered full stack applications</p>
-      <p>▹ Developing intelligent automation with UiPath</p>
-      <p>▹ Exploring LLMs and prompt engineering</p>
-      <p>▹ Creating scalable React and API-driven products</p>
-      <p>▹ Deploying applications on Microsoft Azure</p>
-      <p>▹ Preparing for software engineering opportunities</p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./Assets/working.gif" width="280" alt="Animated software development workspace" />
-    </td>
-  </tr>
-</table>
+**AI Engineer Intern at Oscowl ai** and a final-year Computer Science (Data Science) undergraduate at RGMCET.
 
-<br>
+- **UiPath Student Developer Champion (SDC)**
+- Former **Google Developer Group on Campus Core Lead**
+- Building across **AI, intelligent automation and full stack engineering**
+- Interested in products that turn complex workflows into simple, scalable systems
+
+As an **aspiring entrepreneur**, I am exploring startup-driven ideas that create measurable real-world impact through technology.
+
+**Proof of work:** production-grade real-time systems, offline AI ranking, civic intelligence platforms and automation workflows.
+
+**Strengths:** Leadership · Public Speaking · Product Thinking
+
+<br clear="right">
+
+## Currently Building
+
+<img align="right" src="./Assets/working.gif" width="260" alt="Animated software development workspace" />
+
+- AI-powered products with practical, explainable intelligence
+- UiPath automations for real business workflows
+- LLM, RAG and prompt-engineering experiments
+- Scalable React and API-driven applications
+- Cloud deployments on Microsoft Azure
+
+<br clear="right">
 
 <div align="center">
   <img src="./Assets/ask-me-about.svg" width="100%" alt="Ask me about Python, FastAPI, React, UiPath, machine learning, LLMs, computer vision, Azure, .NET and system design" />
 </div>
 
+## Engineering Toolkit
+
+<div align="center">
+
+### Core Engineering
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,cs,dotnet,react,html,css,js,bootstrap" alt="Python, Flask, FastAPI, C Sharp, .NET, React, HTML, CSS, JavaScript and Bootstrap" />
+
+### AI & Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,mysql,sqlite" alt="TensorFlow, MySQL and SQLite" />
 <br>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="Large Language Models" />
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" alt="Retrieval-Augmented Generation" />
 
-## Technology Arsenal
+### Automation & Cloud
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend Engineering</h3>
-      <p><img src="https://skillicons.dev/icons?i=python,flask,fastapi,cs,dotnet" alt="Python, Flask, FastAPI, C Sharp and .NET" /></p>
-      <h3>Frontend Engineering</h3>
-      <p><img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" alt="React, HTML, CSS, JavaScript and Bootstrap" /></p>
-      <h3>Cloud</h3>
-      <p><img src="https://skillicons.dev/icons?i=azure,cloudflare" alt="Microsoft Azure and Cloudflare" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Databases</h3>
-      <p><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL and SQLite" /></p>
-      <p><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></p>
-      <h3>Developer Tools</h3>
-      <p><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" alt="Git, GitHub, Visual Studio Code, Visual Studio and Figma" /></p>
-    </td>
-  </tr>
-</table>
-
-### AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <br>
-  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO" />
-  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="Large Language Models" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
-</p>
-
-### Intelligent Automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
-  <img src="https://img.shields.io/badge/Studio-FA4616?style=for-the-badge" alt="UiPath Studio" />
-  <img src="https://img.shields.io/badge/Studio_Web-FA4616?style=for-the-badge" alt="UiPath Studio Web" />
-  <br>
-  <img src="https://img.shields.io/badge/Orchestrator-FA4616?style=for-the-badge" alt="UiPath Orchestrator" />
-  <img src="https://img.shields.io/badge/Maestro-FA4616?style=for-the-badge" alt="UiPath Maestro" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=azure,cloudflare" alt="Microsoft Azure and Cloudflare" />
 <br>
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+<img src="https://img.shields.io/badge/Studio-FA4616?style=for-the-badge" alt="UiPath Studio" />
+<img src="https://img.shields.io/badge/Orchestrator-FA4616?style=for-the-badge" alt="UiPath Orchestrator" />
+<img src="https://img.shields.io/badge/Maestro-FA4616?style=for-the-badge" alt="UiPath Maestro" />
 
-## Selected Projects
+### Tools
 
-| Project | What it does | Core technology |
-|:--|:--|:--|
-| **TutorLive** | Real-time faculty selection platform | ASP.NET Core · SignalR · Azure |
-| **SaarLens** | Offline AI recruiter ranking engine for matching and explaining candidate fit at scale | React · FastAPI · RAG · Embeddings |
-| **Intelligent Answer Script Evaluation** | Evaluates written answers using semantic AI | NLP · Sentence Transformers |
-| **Butterfly Image Classification** | Deep learning image classification pipeline | TensorFlow · VGG16 |
-| **YOLO Snake Detection** | Detects snakes in real time from visual input | YOLOv8 · Computer Vision |
-| **Telugu LLM** | Language-focused generative AI development | LLMs · NLP · Prompt Engineering |
-| **UiPath Automation Projects** | Intelligent business process automation | UiPath · Orchestrator · Maestro |
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" alt="Git, GitHub, Visual Studio Code, Visual Studio and Figma" />
 
-<br>
+</div>
 
-## GitHub Intelligence
+## Project Spotlights
+
+### [JanSeva AI](https://github.com/shahid-afrid/janseva-ai)
+
+Converts unstructured citizen complaints into AI-scored priorities, ward heatmaps, recommended actions and decision-ready reports for public representatives. **[Live demo](https://janseva-ai-nu.vercel.app)**
+
+`React 19` · `Vite` · `Tailwind CSS` · `Civic Tech` · `AI for Public Good`
+
+### [SaarLens](https://github.com/shahid-afrid/saarlens-redrob-ranker)
+
+An offline, explainable candidate-ranking engine that prioritizes evidence over keyword stuffing, adds anomaly checks and produces grounded Top-100 recommendations from large candidate datasets.
+
+`Python` · `Streamlit` · `Explainable AI` · `Ranking Systems` · `Data Pipelines`
+
+### TutorLive
+
+A production-grade real-time faculty selection platform used by RGMCET CSE (Data Science), with sub-second availability updates and conflict-safe seat allocation under concurrent usage.
+
+`ASP.NET Core` · `SignalR` · `Azure` · `Real-Time Systems`
+
+### [UiPath SDC Portal](https://github.com/shahid-afrid/uipath-sdc-web)
+
+A dedicated portal for the UiPath Student Developer Champion community and its developer activities.
+
+`TypeScript` · `UiPath` · `Community Platform`
+
+## GitHub Activity
 
 <div align="center">
   <picture>
@@ -143,39 +127,20 @@
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-afrid&layout=compact&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155" alt="Most used languages" />
   </picture>
 
-  <br><br>
+  <br>
 
   <img src="https://streak-stats.demolab.com?user=shahid-afrid&hide_border=true&background=00000000&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub contribution streak" />
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=shahid-afrid&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub profile trophies" />
 </div>
 
-<br>
+## Recognition
 
-## Recognition & Direction
+- **UiPath Student Developer Champion**
+- **2nd Runner-up - Best Startup Innovation, Ignite 8.0**
+- **UiPath Certified Professional - Automation Developer Associate**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Recognition</h3>
-      <p>🏅 UiPath Student Developer Champion</p>
-      <p>🚀 2nd Runner-up - Best Startup Innovation, Ignite 8.0</p>
-      <p>🏆 1st Prize - Technical Quiz, RGMCET</p>
-      <p>🏆 1st Prize - Paper Presentation, Ripple 2k25</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Credentials & Direction</h3>
-      <p>✓ UiPath Automation Developer Associate</p>
-      <p>✓ AWS Certified Cloud Practitioner</p>
-      <p>◈ Agentic AI and intelligent agents</p>
-      <p>◈ Retrieval-Augmented Generation</p>
-    </td>
-  </tr>
-</table>
+## Exploring Next
 
-<br>
+Agentic AI · Retrieval-Augmented Generation · Intelligent automation · Scalable product architecture
 
 <div align="center">
 
@@ -183,13 +148,13 @@
 
 <em>Great software is built by curious minds that never stop learning.</em>
 
-<br><br>
+<br>
 
 <a href="https://github.com/shahid-afrid"><img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub work" /></a>
 <a href="https://www.linkedin.com/in/shaikshahidafrid/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:shaikmahammadshahidafrid@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Start an email conversation" /></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=shahid-afrid&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 

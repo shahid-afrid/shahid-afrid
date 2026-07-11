@@ -119,12 +119,12 @@ A dedicated portal for the UiPath Student Developer Champion community and its d
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shahid-afrid&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&ring_color=38BDF8" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=shahid-afrid&show_icons=true&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155&icon_color=7C3AED&ring_color=0284C7" alt="Shaik Mahammad Shahid Afrid GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-afrid&theme=github_dark" />
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-afrid&theme=default" alt="Shaik Mahammad Shahid Afrid GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-afrid&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-afrid&layout=compact&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahid-afrid&theme=github_dark" />
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahid-afrid&theme=default" alt="Most used languages" />
   </picture>
 
   <br>

@@ -24,7 +24,7 @@
 
 ## About Me
 
-<img align="right" src="./Assets/output.gif" width="300" alt="Animated developer superhero banner" />
+<img align="right" src="./Assets/output.webp" width="300" alt="Animated developer superhero banner" />
 
 **AI Engineer Intern at Oscowl ai** and a final-year Computer Science (Data Science) undergraduate at RGMCET.
 
@@ -43,7 +43,7 @@ As an **aspiring entrepreneur**, I am exploring startup-driven ideas that create
 
 ## Currently Building
 
-<img align="right" src="./Assets/working.gif" width="260" alt="Animated software development workspace" />
+<img align="right" src="./Assets/working.webp" width="260" alt="Animated software development workspace" />
 
 - AI-powered products with practical, explainable intelligence
 - UiPath automations for real business workflows

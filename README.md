@@ -4,45 +4,40 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=UiPath+Student+Developer+Champion+%28SDC%29;AI+%26+Full+Stack+Developer;Building+Intelligent+Software+with+AI;Machine+Learning+%7C+LLMs+%7C+Prompt+Engineering;Turning+Ideas+into+Real-World+Products" alt="Animated professional roles and interests" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=UiPath+Student+Developer+Champion+%28SDC%29;Aspiring+Entrepreneur;AI+%26+Full+Stack+Developer;Building+Intelligent+Software+with+AI;Machine+Learning+%7C+LLMs+%7C+Prompt+Engineering;Turning+Ideas+into+Real-World+Products" alt="Animated professional roles and interests" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/shahid-afrid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://www.linkedin.com/in/shaikshahidafrid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:shaikmahammadshahidafrid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio coming soon" />
 <img src="https://img.shields.io/badge/Instagram-Coming_Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram coming soon" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Open_to-Software_Engineering_Opportunities-22C55E?style=flat-square" alt="Open to software engineering opportunities" />
 <img src="https://img.shields.io/badge/Focus-AI_%C2%B7_Automation_%C2%B7_Full_Stack-38BDF8?style=flat-square" alt="Focus: AI, Automation and Full Stack" />
 
-<br><br>
-
-<img src="./Assets/output.gif" width="460" alt="Animated developer superhero banner" />
-
 </div>
-
-<br>
 
 <table width="100%">
   <tr>
-    <td width="62%" valign="top">
+    <td width="48%" valign="middle">
       <h2>About Me</h2>
-      <p><strong>B.Tech in Computer Science &amp; Engineering (Data Science)</strong></p>
-      <p>Rajeev Gandhi Memorial College of Engineering &amp; Technology</p>
+      <p><strong>AI Engineer Intern at Oscowl ai</strong></p>
+      <p><strong>B.Tech CSE (Data Science)</strong><br>RGMCET · CGPA: 8.4</p>
       <p><strong>UiPath Student Developer Champion (SDC)</strong></p>
-      <p>I build intelligent software at the intersection of <strong>AI, automation and full stack engineering</strong>.</p>
-      <p>I enjoy transforming ambitious ideas into practical products that solve meaningful problems.</p>
-      <p><strong>Open source enthusiast · Tech community contributor · Hackathon builder</strong></p>
+      <p>Former <strong>Google Developer Group on Campus Core Lead</strong></p>
+      <p>I build intelligent, scalable products across <strong>AI, automation and full stack engineering</strong>.</p>
+      <p>As an <strong>aspiring entrepreneur</strong>, I am exploring startup-driven ideas that create measurable real-world impact through technology.</p>
+      <p><strong>Leadership · Public Speaking · Product Thinking</strong></p>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./Assets/about.gif" width="280" alt="Developer working at a computer" />
+    <td width="52%" align="center" valign="middle">
+      <img src="./Assets/output.gif" width="390" alt="Animated developer superhero banner" />
     </td>
   </tr>
 </table>
@@ -103,7 +98,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="Large Language Models" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
@@ -115,7 +110,7 @@
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
   <img src="https://img.shields.io/badge/Studio-FA4616?style=for-the-badge" alt="UiPath Studio" />
   <img src="https://img.shields.io/badge/Studio_Web-FA4616?style=for-the-badge" alt="UiPath Studio Web" />
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/Orchestrator-FA4616?style=for-the-badge" alt="UiPath Orchestrator" />
   <img src="https://img.shields.io/badge/Maestro-FA4616?style=for-the-badge" alt="UiPath Maestro" />
 </p>
@@ -127,6 +122,7 @@
 | Project | What it does | Core technology |
 |:--|:--|:--|
 | **TutorLive** | Real-time faculty selection platform | ASP.NET Core · SignalR · Azure |
+| **SaarLens** | Offline AI recruiter ranking engine for matching and explaining candidate fit at scale | React · FastAPI · RAG · Embeddings |
 | **Intelligent Answer Script Evaluation** | Evaluates written answers using semantic AI | NLP · Sentence Transformers |
 | **Butterfly Image Classification** | Deep learning image classification pipeline | TensorFlow · VGG16 |
 | **YOLO Snake Detection** | Detects snakes in real time from visual input | YOLOv8 · Computer Vision |
@@ -165,16 +161,16 @@
     <td width="50%" valign="top">
       <h3>Recognition</h3>
       <p>🏅 UiPath Student Developer Champion</p>
-      <p>🥈 Multiple national-level hackathon finalist</p>
-      <p>🎓 AI Developer Intern — Summer of AI</p>
-      <p>🌍 Open source contributor</p>
+      <p>🚀 2nd Runner-up - Best Startup Innovation, Ignite 8.0</p>
+      <p>🏆 1st Prize - Technical Quiz, RGMCET</p>
+      <p>🏆 1st Prize - Paper Presentation, Ripple 2k25</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Exploring Next</h3>
+      <h3>Credentials & Direction</h3>
+      <p>✓ UiPath Automation Developer Associate</p>
+      <p>✓ AWS Certified Cloud Practitioner</p>
       <p>◈ Agentic AI and intelligent agents</p>
       <p>◈ Retrieval-Augmented Generation</p>
-      <p>◈ AI-powered automation systems</p>
-      <p>◈ Scalable backend architecture</p>
     </td>
   </tr>
 </table>

@@ -1,0 +1,42 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shaik Mahammad Shahid Afrid</title>
+  <desc id="desc">Premium glass-style developer profile header</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#10172A"/>
+      <stop offset="1" stop-color="#070B18"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="155" y1="36" x2="1046" y2="219" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.85"/>
+      <stop offset="0.48" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="260" y1="0" x2="940" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="shadow" x="110" y="0" width="980" height="250" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#020617" flood-opacity="0.75"/>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="250" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="18" fill="url(#grid)"/>
+  <path d="M0 208L288 105L490 154L748 51L1200 149V250H0V208Z" fill="#38BDF8" fill-opacity="0.035"/>
+  <path d="M0 230L328 130L575 184L846 78L1200 168" stroke="#A78BFA" stroke-opacity="0.16"/>
+  <g filter="url(#shadow)">
+    <rect x="132" y="30" width="936" height="190" rx="24" fill="#FFFFFF" fill-opacity="0.055"/>
+    <rect x="132.75" y="30.75" width="934.5" height="188.5" rx="23.25" stroke="url(#stroke)" stroke-width="1.5"/>
+  </g>
+  <rect x="174" y="66" width="9" height="9" rx="4.5" fill="#38BDF8"/>
+  <text x="198" y="75" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">GITHUB PROFILE / SHAHID-AFRID</text>
+  <text x="600" y="132" fill="#F8FAFC" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="39" font-weight="750">Shaik Mahammad Shahid Afrid</text>
+  <rect x="341" y="158" width="518" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="600" y="190" fill="#CBD5E1" text-anchor="middle" font-family="Consolas, monospace" font-size="16">BUILD  ·  AUTOMATE  ·  CREATE  ·  SHIP</text>
+  <path d="M1030 64H1004V90" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M170 186V204H188" stroke="#A78BFA" stroke-width="2" stroke-linecap="round"/>
+</svg>

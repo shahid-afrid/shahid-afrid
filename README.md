@@ -11,6 +11,9 @@
 <a href="https://github.com/shahid-afrid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://www.linkedin.com/in/shaikshahidafrid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:shaikmahammadshahidafrid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio coming soon" />
 <img src="https://img.shields.io/badge/Instagram-Coming_Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram coming soon" />
 
@@ -100,6 +103,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <br><br>
   <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="Large Language Models" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
@@ -111,6 +115,7 @@
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
   <img src="https://img.shields.io/badge/Studio-FA4616?style=for-the-badge" alt="UiPath Studio" />
   <img src="https://img.shields.io/badge/Studio_Web-FA4616?style=for-the-badge" alt="UiPath Studio Web" />
+  <br><br>
   <img src="https://img.shields.io/badge/Orchestrator-FA4616?style=for-the-badge" alt="UiPath Orchestrator" />
   <img src="https://img.shields.io/badge/Maestro-FA4616?style=for-the-badge" alt="UiPath Maestro" />
 </p>

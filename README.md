@@ -26,7 +26,7 @@
 
 <br>
 
-<img src="./Assets/output.gif" width="100%" alt="Banner" />
+<img src="./Assets/output.gif" width="480" alt="Banner" />
 
 </div>
 

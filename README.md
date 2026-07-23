@@ -18,7 +18,7 @@
 
 ## About Me
 
-<img align="right" src="./Assets/output.webp" width="270" alt="Animated AI product workspace" />
+<img align="right" src="./Assets/output.gif" width="270" alt="Animated coding terminal" />
 
 **AI Engineer Intern at Oscowl ai** and a final-year Computer Science (Data Science) undergraduate at RGMCET.
 

@@ -18,7 +18,7 @@
 
 ## About Me
 
-<img align="right" src="./Assets/output.webp" width="270" alt="Animated developer superhero banner" />
+<img align="right" src="./Assets/output.webp" width="270" alt="Animated AI product workspace" />
 
 **AI Engineer Intern at Oscowl ai** and a final-year Computer Science (Data Science) undergraduate at RGMCET.
 
